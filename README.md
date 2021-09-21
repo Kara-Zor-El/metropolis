@@ -26,16 +26,16 @@ With the shift towards increasing online connectivity, we've worked on digitizin
 
 ## Contact Us:
 
-[<img align="left" alt="Email:" width="20px" style="padding: 5px" src=" https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />][email]
+[<img align="left" alt="Email:" width="20px" style="padding: 5px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />][email] 
 <h3><a href="mailto:hello@maclyonden.com">hello@maclyonsden.com</a></h3>
 
-[<img align="left" alt="Instagram:" width="20px" style="padding: 5px" src=" https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram:" width="20px" style="padding: 5px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
 <h3><a href="https://www.instagram.com/wlmac.sac/">@wlmac.sac</a></h3>
 
-[<img align="left" alt="Facebook:" width="20px" style="padding: 5px" src=" https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Facebook:" width="20px" style="padding: 5px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" />][facebook]
 <h3><a href="https://www.facebook.com/groups/keeptrackofmac">Keep Track of MAC</a></h3>
 
-[<img align="left" alt="Facebook:" width="20px" style="padding: 5px" src=" https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />][discord]
+[<img align="left" alt="Facebook:" width="20px" style="padding: 5px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />][discord]
 <h3><a href="https://discord.gg/g5eBwgT">Keep Track of MAC Discord</a></h3>
 
 
