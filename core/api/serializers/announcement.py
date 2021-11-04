@@ -1,13 +1,20 @@
 from rest_framework import serializers
-from .tag import TagSerializer
+
+from core.api.serializers.custom import PrimaryKeyAndSlugRelatedField
+
 from ... import models
+from .tag import TagSerializer
 
 
 class AnnouncementSerializer(serializers.ModelSerializer):
-    author = serializers.SlugRelatedField(slug_field='username', queryset=models.User.objects.all())
-    organization = serializers.SlugRelatedField(slug_field='name', queryset=models.Organization.objects.all())
+    author = PrimaryKeyAndSlugRelatedField(
+        slug_field="username", queryset=models.User.objects.all()
+    )
+    organization = PrimaryKeyAndSlugRelatedField(
+        slug_field="slug", queryset=models.Organization.objects.all()
+    )
     tags = TagSerializer(many=True)
 
     class Meta:
         model = models.Announcement
-        exclude = ['supervisor', 'status', 'rejection_reason']
+        exclude = ["supervisor", "status", "rejection_reason"]
